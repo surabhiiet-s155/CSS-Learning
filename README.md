@@ -57,3 +57,32 @@ To understand how CSS colors and borders improve webpage design and structure.
 ---
 
 ✨ Improving design skills step by step using CSS.
+
+---
+## 📅 Day 3 – Text Styling & Fonts
+
+### 📌 What I Learned
+- How to change font family and font size  
+- How to use font-weight  
+- How to align text  
+- How to apply text-decoration  
+- How to use text-transform  
+- How to adjust line-height and letter-spacing  
+
+### 💡 Concepts Practiced
+- Styling paragraphs differently using classes  
+- Improving readability using spacing  
+- Making text more attractive using font properties  
+
+### 🎯 Goal
+To understand how CSS text properties improve readability and design of webpages.
+
+---
+
+## 💻 Files Included
+- Day3/index.html  
+- Day3/style.css  
+
+---
+
+✨ Improving typography skills step by step.
