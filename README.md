@@ -141,3 +141,31 @@ To understand how the display property affects webpage structure and layout.
 ---
 
 ✨ Strengthening layout fundamentals step by step.
+
+---
+
+## 📅 Day 6 – CSS Position Property
+
+### 📌 What I Learned
+- Different types of positioning in CSS  
+- How relative and absolute work together  
+- How fixed positioning stays on screen  
+- How to use top, bottom, left and right  
+
+### 💡 Concepts Practiced
+- Creating positioned layout examples  
+- Controlling element placement  
+- Understanding layout behavior  
+
+### 🎯 Goal
+To understand how positioning helps in building advanced webpage layouts.
+
+---
+
+## 💻 Files Included
+- Day6/index.html  
+- Day6/style.css  
+
+---
+
+✨ Moving towards advanced layout concepts.
