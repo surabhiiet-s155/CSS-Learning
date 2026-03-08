@@ -278,3 +278,30 @@ To build a simple webpage by combining all CSS concepts learned so far.
 ---
 
 ✨ Built my first styled mini website.
+
+
+## 📅 Day 11 – Responsive Design (Media Queries)
+
+### 📌 What I Learned
+- What is responsive design
+- How to use @media queries
+- Adjust layout for mobile and tablet
+- Make cards and navigation adapt to screen size
+
+### 💡 Concepts Practiced
+- Flexbox with responsive layout
+- Navigation links stacking on small screens
+- Card layout adapting vertically
+
+### 🎯 Goal
+To make webpages responsive and look good on all devices.
+
+---
+
+## 💻 Files Included
+- Day11/index.html
+- Day11/style.css
+
+---
+
+✨ Making websites mobile-friendly step by step.
